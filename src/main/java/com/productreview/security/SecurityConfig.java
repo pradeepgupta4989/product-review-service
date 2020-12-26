@@ -1,4 +1,4 @@
-package com.productreview.security;
+/*package com.productreview.security;
 
 import org.springframework.boot.actuate.autoconfigure.security.reactive.EndpointRequest;
 import org.springframework.context.annotation.Bean;
@@ -57,4 +57,4 @@ public class SecurityConfig {
     	return new BCryptPasswordEncoder();
     }
 
-}
+}*/
